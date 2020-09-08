@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingBussinessLayer\bin\Debug\netcoreapp2.1\GreetingMessagingBussinessLayer.deps.json
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingBussinessLayer\bin\Debug\netcoreapp2.1\GreetingMessagingBussinessLayer.dll
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingBussinessLayer\bin\Debug\netcoreapp2.1\GreetingMessagingBussinessLayer.pdb
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingBussinessLayer\bin\Debug\netcoreapp2.1\GreetingMessagingModelLayer.dll
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingBussinessLayer\bin\Debug\netcoreapp2.1\GreetingMessagingRepositoryLayer.dll
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingBussinessLayer\bin\Debug\netcoreapp2.1\GreetingMessagingRepositoryLayer.pdb
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingBussinessLayer\bin\Debug\netcoreapp2.1\GreetingMessagingModelLayer.pdb
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingBussinessLayer\obj\Debug\netcoreapp2.1\GreetingMessagingBussinessLayer.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingBussinessLayer\obj\Debug\netcoreapp2.1\GreetingMessagingBussinessLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingBussinessLayer\obj\Debug\netcoreapp2.1\GreetingMessagingBussinessLayer.AssemblyInfo.cs
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingBussinessLayer\obj\Debug\netcoreapp2.1\GreetingMessagingBussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingBussinessLayer\obj\Debug\netcoreapp2.1\GreetingMessagingBussinessLayer.csproj.CopyComplete
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingBussinessLayer\obj\Debug\netcoreapp2.1\GreetingMessagingBussinessLayer.dll
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingBussinessLayer\obj\Debug\netcoreapp2.1\GreetingMessagingBussinessLayer.pdb
