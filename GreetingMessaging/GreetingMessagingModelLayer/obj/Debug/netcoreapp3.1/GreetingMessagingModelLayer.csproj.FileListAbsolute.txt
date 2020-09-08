@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingModelLayer\bin\Debug\netcoreapp3.1\GreetingMessagingModelLayer.deps.json
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingModelLayer\bin\Debug\netcoreapp3.1\GreetingMessagingModelLayer.dll
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingModelLayer\bin\Debug\netcoreapp3.1\GreetingMessagingModelLayer.pdb
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingModelLayer\obj\Debug\netcoreapp3.1\GreetingMessagingModelLayer.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingModelLayer\obj\Debug\netcoreapp3.1\GreetingMessagingModelLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingModelLayer\obj\Debug\netcoreapp3.1\GreetingMessagingModelLayer.AssemblyInfo.cs
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingModelLayer\obj\Debug\netcoreapp3.1\GreetingMessagingModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingModelLayer\obj\Debug\netcoreapp3.1\GreetingMessagingModelLayer.dll
+C:\Users\Admin\Documents\GreetingMessaging\GreetingMessaging\GreetingMessagingModelLayer\obj\Debug\netcoreapp3.1\GreetingMessagingModelLayer.pdb

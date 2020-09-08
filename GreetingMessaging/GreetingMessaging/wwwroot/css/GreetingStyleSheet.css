@@ -1,0 +1,57 @@
+﻿body{
+    margin:0;
+    padding:0;
+    font-family:'Agency FB';
+    background:none;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+th {
+    background-color: #ddd;
+    color: rgba(0,0,0,1);
+    font-size:x-large
+}
+th,td{
+    border:2px solid #ddd;
+    padding:15px
+    
+}
+
+button.AddEmployee-Button {
+    font-size: 20px;
+    font-family: serif;
+    background-color: #2874f0;
+    color: white;
+    box-shadow: 0 4px 8px rgba(0,0,0,1);
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+button.Edit-Button {
+    background-color: #2874f0;
+    box-shadow: 0 4px 8px rgba(0,0,0,1);
+    border-radius:10px;
+}
+button.Delete-Button {
+    background-color: #2874f0;
+    box-shadow: 0 4px 8px rgba(0,0,0,1);
+    border-radius:10px;
+}
+h1 {
+    margin-left: 20px;
+}
+.list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width:100%
+}
+.List-class {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

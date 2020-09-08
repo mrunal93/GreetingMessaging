@@ -1,0 +1,98 @@
+﻿body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 136px;
+    background-image:url('/images/giphy (1).gif')
+}
+button {
+    border-radius: 265px;
+    background-color: aquamarine;
+    font-size: inherit;
+    margin-top: 9px;
+}
+.submit-button {
+    display: flex;
+    width: 147px;
+    padding: 13px;
+    align-items: center;
+    font-size: 18px;
+    justify-content: center;
+    margin-left: 9px;
+}
+
+label {
+    padding: 0px;
+    font-size: larger;
+    margin-left: 9px;
+}
+.textbox {
+    margin-top: 16px;
+    margin-left: 8px;
+}
+input.LastName-input {
+    border-color: black;
+}
+input.FirstName-input {
+    border-color: black;
+}
+input.Email-input {
+    border-color: black;
+}
+ .AddDetail
+{
+    box-shadow: 0 4px 8px 0 rgb(10,10,10);
+    width: 195px;
+    border-radius: 10px;
+    display: grid;
+    background-color: wheat;
+    margin-left: 50px;
+}
+
+.EditDetail {
+    box-shadow: 0 4px 8px 0 rgb(10,10,10);
+    width: 191px;
+    border-radius: 10px;
+    display: grid;
+    background-color: wheat;
+    margin-left: 50px;
+    height: 261px;
+}
+ .DeleteDetail
+
+{
+    box-shadow: 0 4px 8px 0 rgb(10,10,10);
+    width: 195px;
+    border-radius: 10px;
+    display: grid;
+    background-color: wheat;
+    margin-left: 50px;
+    height: 98px;
+}
+.Edit-button {
+    margin-left: 43px;
+}
+
+input.Id-Edit {
+    border-color: black;
+    margin-left: 4px;
+}
+input.FirstName-Edit {
+    border-color: black;
+    margin-left: 4px;
+}
+input.LastName-Edit {
+    border-color: black;
+    margin-left: 4px;
+}
+input.Email-Edit {
+    border-color: black;
+    margin-left: 4px;
+}
+.Delete-button {
+    margin-left: inherit;
+}
+input.Id-Delete {
+    border-color: black;
+    margin-left: 6px;
+}
